@@ -1,0 +1,3 @@
+POSTGRES_USER=swag
+POSTGRES_DB=swag_dev
+POSTGRES_PASSWORD=password
